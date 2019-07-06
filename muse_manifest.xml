@@ -1,0 +1,1103 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.smalldata.technology" ftp_rootfolder="/public_html" exportTarget="FTP" domain="https://smalldata.technology" resolutions="1x" timestamp="1561825044824">
+  <folder name="css">
+    <file name="site_global.css" crc="331656506"/>
+    <file name="master_a-p_g_-maestra.css" crc="451027227" ref="acerca:recursos:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-una-vida-libre-de-violencia:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales:buscar:casos:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:index:metodologia:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="4221024354" ref="acerca:recursos:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-una-vida-libre-de-violencia:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales:buscar:casos:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:index:metodologia:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="acerca.css" crc="219383445" ref="acerca"/>
+    <file name="nomq_acerca.css" crc="76980989" ref="acerca"/>
+    <file name="recursos.css" crc="3974334164" ref="recursos"/>
+    <file name="nomq_recursos.css" crc="34870005" ref="recursos"/>
+    <file name="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras.css" crc="340690389" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="nomq_datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras.css" crc="243003163" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="datos-para-una-vida-libre-de-violencia.css" crc="4013919074" ref="datos-para-una-vida-libre-de-violencia"/>
+    <file name="nomq_datos-para-una-vida-libre-de-violencia.css" crc="138056200" ref="datos-para-una-vida-libre-de-violencia"/>
+    <file name="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales.css" crc="3912087183" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="nomq_datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales.css" crc="3984869345" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="buscar.css" crc="301138212" ref="buscar"/>
+    <file name="casos.css" crc="53506379" ref="casos"/>
+    <file name="nomq_casos.css" crc="445202926" ref="casos"/>
+    <file name="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad.css" crc="486246230" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="nomq_datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad.css" crc="4126961437" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="index.css" crc="3946948766" ref="index"/>
+    <file name="nomq_index.css" crc="498746760" ref="index"/>
+    <file name="metodologia.css" crc="4201614315" ref="metodologia"/>
+    <file name="nomq_metodologia.css" crc="4170475680" ref="metodologia"/>
+    <file name="datos-para-responder-a-la-emergencia-y-reconstrucci_n-ante-sismos.css" crc="3968044004" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="nomq_datos-para-responder-a-la-emergencia-y-reconstrucci_n-ante-sismos.css" crc="3853451655" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="museutils.js" crc="340535759" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="whatinput.js" crc="86476730" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="museconfig.js" crc="310584261" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="webpro.js" crc="4059564322" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:casos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="require.js" crc="7928878" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="485506802" ref="index"/>
+    <file name="sd-916.gif" crc="3941543035" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-pegado-280x107.svg" crc="129471241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 280x107_poster_.png" crc="3805810263" ref="index"/>
+    <file name="svg-pegado-24536x43.svg" crc="3811374661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg pegado 24536x43_poster_.png" crc="136730727" ref="index"/>
+    <file name="svg-pegado-236.svg" crc="129046390" seo="true" ref="index:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="svg pegado 236_poster_.png" crc="4202542977" ref="index"/>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-crop-u1906.jpg" crc="4011702987" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="casa-amiga-esther-small-data-02-crop-u2241.jpg" crc="3986434496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el-caracol-small-data-03-crop-u3050.jpg" crc="4192171196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fortalecer-capacidades-mujeres-small-data-05-crop-u3327.jpg" crc="3789668335" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perpendicular-small-data-04-crop-u3389.jpg" crc="3834324746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="svg-pegado-132261x132.svg" crc="3894398471" seo="true" ref="index:metodologia:recursos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+    </file>
+    <file name="svg pegado 132261x132_poster_.png" crc="208360776" ref="index"/>
+    <file name="svg-pegado-132261x1322.svg" crc="383421371" seo="true" ref="index:metodologia:recursos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+    </file>
+    <file name="svg pegado 132261x132_poster_2.png" crc="22060186" ref="index"/>
+    <file name="svg-pegado-132261x1323.svg" crc="63522810" seo="true" ref="index:metodologia:recursos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+    </file>
+    <file name="svg pegado 132261x132_poster_3.png" crc="280477364" ref="index"/>
+    <file name="svg-pegado-132261x1324.svg" crc="3884438100" seo="true" ref="index:metodologia:recursos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+    </file>
+    <file name="svg pegado 132261x132_poster_4.png" crc="3923259507" ref="index"/>
+    <file name="svg-pegado-132261x1325.svg" crc="4071676351" seo="true" ref="index:metodologia:recursos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+    </file>
+    <file name="svg pegado 132261x132_poster_5.png" crc="3959177850" ref="index"/>
+    <file name="svg-pegado-131x50.svg" crc="251751158" seo="true" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="buscar" alt=""/>
+    </file>
+    <file name="svg pegado 131x50_poster_.png" crc="39419828" ref="index"/>
+    <file name="mag_sprite_dark.png" crc="3817158456" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close-sprite-u1195-a-fr.png" crc="3833263771" ref="index"/>
+    <file name="mag_sprite.png" crc="213874386" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-pegado-31x31.svg" crc="3801222160" seo="true" ref="index:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="svg pegado 31x31_poster_.png" crc="474521946" ref="index"/>
+    <file name="svg-pegado-31x312.svg" crc="4164462853" seo="true" ref="index:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="svg pegado 31x31_poster_2.png" crc="432382659" ref="index"/>
+    <file name="svg-pegado-31x313.svg" crc="475409562" seo="true" ref="index:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="svg pegado 31x31_poster_3.png" crc="117335115" ref="index"/>
+    <file name="svg-pegado-319623x35.svg" crc="3932307564" seo="true" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="buscar" alt=""/>
+    </file>
+    <file name="svg pegado 319623x35_poster_.png" crc="3801701697" ref="index"/>
+    <file name="svg-pegado-118804x28.svg" crc="246033113" seo="true" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="buscar" alt=""/>
+    </file>
+    <file name="svg pegado 118804x28_poster_.png" crc="347648528" ref="index"/>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-crop-u19062.jpg" crc="4150155179" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casa-amiga-esther-small-data-02-crop-u22412.jpg" crc="3954496647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el-caracol-small-data-03-crop-u30502.jpg" crc="413632155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fortalecer-capacidades-mujeres-small-data-05-crop-u33272.jpg" crc="449895806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perpendicular-small-data-04-crop-u33892.jpg" crc="349979429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1.jpg" crc="309584792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casa-amiga-esther-small-data-02-crop-u22413.jpg" crc="253837986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el-caracol-small-data-03588x362.jpg" crc="289037843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fortalecer-capacidades-mujeres-small-data-05.jpg" crc="3775839108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perpendicular-small-data-04-crop-u33893.jpg" crc="104579103" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gps01-facebook.png" crc="3911212899" seo="true" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="buscar" alt=""/>
+    </file>
+    <file name="gps01-twitter.png" crc="27526333" seo="true" ref="index:buscar:acerca:metodologia:casos:recursos:datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="recursos" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="metodologia" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="acerca" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="buscar" alt=""/>
+    </file>
+    <file name="movil-03.jpg" crc="521258612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-crop-u19063.jpg" crc="3855319429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casa-amiga-esther-small-data-02-crop-u22414.jpg" crc="3907311012" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el-caracol-small-data-03-crop-u30503.jpg" crc="3842244489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fortalecer-capacidades-mujeres-small-data-05-crop-u33273.jpg" crc="4255117769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perpendicular-small-data-04-crop-u33894.jpg" crc="4197611973" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-crop-u19064.jpg" crc="49149615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casa-amiga-esther-small-data-02-crop-u22415.jpg" crc="4229658342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el-caracol-small-data-03-crop-u30504.jpg" crc="4120555135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fortalecer-capacidades-mujeres-small-data-05-crop-u33274.jpg" crc="3927145147" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perpendicular-small-data-04-crop-u33895.jpg" crc="242988141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="movil-03-u21726-fr.jpg" crc="336271762" ref="index"/>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-crop-u19065.jpg" crc="183421429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="casa-amiga-esther-small-data-02-crop-u22416.jpg" crc="510283130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="el-caracol-small-data-03-crop-u30505.jpg" crc="3942499384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fortalecer-capacidades-mujeres-small-data-05-crop-u33275.jpg" crc="3916258470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="perpendicular-small-data-04-crop-u33896.jpg" crc="4118321781" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-u19766-fr.jpg" crc="383101290" ref="casos"/>
+    <file name="casa-amiga-esther-small-data-02.jpg" crc="361144571" ref="casos:datos-para-una-vida-libre-de-violencia">
+      <caption webpage="casos" alt=""/>
+    </file>
+    <file name="el-caracol-small-data-03-u19631-fr.jpg" crc="4268959475" ref="casos"/>
+    <file name="fortalecer-capacidades-mujeres-small-data-052.jpg" crc="451688829" ref="casos:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="perpendicular-small-data-04.jpg" crc="362831934" ref="casos">
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+      <caption webpage="casos" alt=""/>
+    </file>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-u19766-fr2.jpg" crc="3805409024" ref="casos"/>
+    <file name="casa-amiga-esther-small-data-02-u19725-fr.jpg" crc="419996979" ref="casos"/>
+    <file name="el-caracol-small-data-03-u19631-fr2.jpg" crc="4282424495" ref="casos"/>
+    <file name="fortalecer-capacidades-mujeres-small-data-05-u19735-fr.jpg" crc="287282173" ref="casos"/>
+    <file name="perpendicular-small-data-04-u19753-fr.jpg" crc="122067947" ref="casos"/>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-u19766-fr3.jpg" crc="80290570" ref="casos"/>
+    <file name="casa-amiga-esther-small-data-02-u19725-fr2.jpg" crc="266596219" ref="casos"/>
+    <file name="el-caracol-small-data-03-u19631-fr3.jpg" crc="3773285618" ref="casos"/>
+    <file name="fortalecer-capacidades-mujeres-small-data-05-u19735-fr2.jpg" crc="4212571148" ref="casos"/>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-u19766-fr4.jpg" crc="4049510967" ref="casos"/>
+    <file name="casa-amiga-esther-small-data-02-u19725-fr3.jpg" crc="4098751007" ref="casos"/>
+    <file name="el-caracol-small-data-03-u19631-fr4.jpg" crc="249533053" ref="casos"/>
+    <file name="fortalecer-capacidades-mujeres-small-data-05-u19735-fr3.jpg" crc="529323432" ref="casos"/>
+    <file name="perpendicular-small-data-04-u19753-fr2.jpg" crc="4287557768" ref="casos"/>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-u19766-fr5.jpg" crc="4151730430" ref="casos"/>
+    <file name="casa-amiga-esther-small-data-02-u19725-fr4.jpg" crc="3926922756" ref="casos"/>
+    <file name="el-caracol-small-data-03-u19631-fr5.jpg" crc="520667589" ref="casos"/>
+    <file name="fortalecer-capacidades-mujeres-small-data-05-u19735-fr4.jpg" crc="520700767" ref="casos"/>
+    <file name="perpendicular-small-data-04-u19753-fr3.jpg" crc="4004749910" ref="casos"/>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 12.jpg" crc="424720811" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos">
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+    </file>
+    <file name="image6.jpg" crc="3774421071" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos">
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+    </file>
+    <file name="svg-pegado-41.svg" crc="188469805" seo="true" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos:datos-para-una-vida-libre-de-violencia:datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras:datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad:datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+    </file>
+    <file name="svg pegado 41_poster_.png" crc="82902482" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="image5.jpg" crc="535233752" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="image6-u3771-fr.jpg" crc="93378963" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="image6-u3771-fr2.jpg" crc="4040575533" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="image5-u3797-fr.jpg" crc="3956072529" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="image6-u3771-fr3.jpg" crc="501653749" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="image5-u3797-fr2.jpg" crc="4054140755" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="levantamiento-comunitario-de-datos-small-data_mesa de trabajo 1-u3651-fr.jpg" crc="4215747402" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="image6-u3771-fr4.jpg" crc="206030456" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="image5-u3797-fr3.jpg" crc="290255430" ref="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos"/>
+    <file name="casaamiga3_smalldata.jpg" crc="167887977" ref="datos-para-una-vida-libre-de-violencia">
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+    </file>
+    <file name="casa amiga.jpg" crc="4247270163" ref="datos-para-una-vida-libre-de-violencia">
+      <caption webpage="datos-para-una-vida-libre-de-violencia" alt=""/>
+    </file>
+    <file name="casa amiga-u6417-fr.jpg" crc="4090596939" ref="datos-para-una-vida-libre-de-violencia"/>
+    <file name="casa amiga-u6417-fr2.jpg" crc="152506500" ref="datos-para-una-vida-libre-de-violencia"/>
+    <file name="casaamiga3_smalldata-u6406-fr.jpg" crc="4265793765" ref="datos-para-una-vida-libre-de-violencia"/>
+    <file name="casa amiga-u6417-fr3.jpg" crc="3881697650" ref="datos-para-una-vida-libre-de-violencia"/>
+    <file name="casaamiga3_smalldata-u6406-fr2.jpg" crc="3864359210" ref="datos-para-una-vida-libre-de-violencia"/>
+    <file name="casa amiga-u6417-fr4.jpg" crc="247732880" ref="datos-para-una-vida-libre-de-violencia"/>
+    <file name="el-caracol-small-data-03.jpg" crc="316348700" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras">
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+    </file>
+    <file name="caracol4_smalldata.jpg" crc="3784189508" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras">
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+    </file>
+    <file name="caracol3_smalldata.jpg" crc="467523692" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras">
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+      <caption webpage="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras" alt=""/>
+    </file>
+    <file name="caracol4_smalldata-u7420-fr.jpg" crc="4144260399" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="caracol3_smalldata-u7433-fr.jpg" crc="4184411704" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="caracol4_smalldata-u7420-fr2.jpg" crc="3976620795" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="caracol4_smalldata-u7420-fr3.jpg" crc="413242370" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="caracol3_smalldata-u7433-fr2.jpg" crc="3974429731" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="el-caracol-small-data-03-u7428-fr.jpg" crc="427443817" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="caracol4_smalldata-u7420-fr4.jpg" crc="4285393143" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="caracol3_smalldata-u7433-fr3.jpg" crc="3789977120" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="el-caracol-small-data-03-u7428-fr2.jpg" crc="4099083532" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="caracol4_smalldata-u7420-fr5.jpg" crc="4099946603" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="caracol3_smalldata-u7433-fr4.jpg" crc="87453622" ref="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras"/>
+    <file name="pasted image 0 (1).jpg" crc="3803826981" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad">
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="img_20171019_190255_1.jpg" crc="504868037" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad">
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="unnamed.jpg" crc="471646959" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad">
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="dsc05436.jpg" crc="4053999057" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad">
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="dsc05431.jpg" crc="256394854" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad">
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="unnamed2.jpg" crc="429654659" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad">
+      <caption webpage="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad" alt=""/>
+    </file>
+    <file name="pasted image 0 (1)-u7945-fr.jpg" crc="33008539" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="img_20171019_190255_1-u7959-fr.jpg" crc="4278010915" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="dsc05436-u8487-fr.jpg" crc="3780648374" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="dsc05431-u8597-fr.jpg" crc="3946675840" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="pasted image 0 (1)-u7945-fr2.jpg" crc="4049881683" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="dsc05436-u8487-fr2.jpg" crc="384931088" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="dsc05431-u8597-fr2.jpg" crc="438792849" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="pasted image 0 (1)-u7945-fr3.jpg" crc="4016828830" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="unnamed-u8703-fr.jpg" crc="3786264197" ref="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad"/>
+    <file name="perpendicular-small-data-042.jpg" crc="437951899" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-06-28 a la(s) 004326.jpg" crc="4081859902" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+    </file>
+    <file name="pasted image 0.jpg" crc="4216353086" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+    </file>
+    <file name="dsc05443.jpg" crc="198659794" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+    </file>
+    <file name="unnamed3.jpg" crc="269551411" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+    </file>
+    <file name="img_20171106_161105 (1).jpg" crc="3793190246" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4251978488" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+    </file>
+    <file name="5 niveles - campaña.jpg" crc="487456897" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales">
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+      <caption webpage="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales" alt=""/>
+    </file>
+    <file name="captura de pantalla 2019-06-28 a la(s) 004326-u21517-fr.jpg" crc="43349139" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="pasted image 0-u21535-fr.jpg" crc="223885641" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="dsc05443-u21545-fr.jpg" crc="72342202" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="unnamed-u21525-fr.jpg" crc="3878078463" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="img_20171106_161105 (1)-u21543-fr.jpg" crc="113231269" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="captura de pantalla 2019-06-28 a la(s) 004326-u21517-fr2.jpg" crc="32254536" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="dsc05443-u21545-fr2.jpg" crc="4208079775" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="unnamed-u21525-fr2.jpg" crc="4123866217" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="5 niveles - campaña-u21539-fr.jpg" crc="3798525476" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="captura de pantalla 2019-06-28 a la(s) 004326-u21517-fr3.jpg" crc="4007826267" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+    <file name="2-u21528-fr.jpg" crc="3853076780" ref="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales"/>
+  </folder>
+  <file name="index.html" crc="206826061" seo="true" mt="1561824997116" redirect="true"/>
+  <file name="buscar.html" crc="4088332800" seo="true" mt="1561821067429" redirect="true"/>
+  <file name="acerca.html" crc="4010153907" seo="true" mt="1561821067429" redirect="true"/>
+  <file name="metodologia.html" crc="259892799" seo="true" mt="1561821339802" redirect="true"/>
+  <file name="casos.html" crc="264160446" seo="true" mt="1561824934752" redirect="true"/>
+  <file name="recursos.html" crc="4230454906" seo="true" mt="1561821067429" redirect="true"/>
+  <file name="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos.html" crc="279439402" seo="true" mt="1561821067429" redirect="true"/>
+  <file name="datos-para-una-vida-libre-de-violencia.html" crc="247893871" seo="true" mt="1561821067429" redirect="true"/>
+  <file name="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras.html" crc="3947046390" seo="true" mt="1561821067429" redirect="true"/>
+  <file name="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad.html" crc="3848559163" seo="true" mt="1561821067429" redirect="true"/>
+  <file name="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales.html" crc="533678158" seo="true" mt="1561821067429" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="Estilo-de-p-rrafo" uid="U2124"/>
+    <paragraphStyle className="titulo" uid="U2136"/>
+    <textLinkStyle className="Copia-de--Estilo-de-v-nculo-pred" uid="U11428"/>
+    <textLinkStyle className="morado" uid="U11672"/>
+    <textLinkStyle className="NOMAL" uid="U17722"/>
+    <textLinkStyle className="Copia-de-NOMAL" uid="U20311"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Inicio" filename="index.html" muse_href="page:U93" master="U72">
+        <breakpoint uid="U83" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U23834" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U4635" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U5150" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U5272" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U5381" maxwidth="1280" minwidth="1025" squishy="true"/>
+        <anchor name="intro" html_id="intro" muse_href="anchor:U82:U2170" includeInBPs="U83,U23834,U4635,U5150,U5272,U5381"/>
+      </page>
+      <masterPage name="A-Pág. maestra" master="U62" uid="U72">
+        <breakpoint uid="U94" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U872" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U929" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U986" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U1063" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U17317" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="360" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="buscar" filename="buscar.html" muse_href="page:U596" master="U72">
+        <breakpoint uid="U586" maxwidth="320" minwidth="0" squishy="true"/>
+      </page>
+      <page name="acerca" filename="acerca.html" muse_href="page:U1585" master="U72">
+        <breakpoint uid="U10663" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U10648" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U10633" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U10530" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U1575" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U10166" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="metodologia" filename="metodologia.html" muse_href="page:U1597" master="U72">
+        <breakpoint uid="U10855" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U12765" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U13468" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U13837" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U14237" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U16051" maxwidth="1280" minwidth="1025" squishy="true"/>
+        <anchor name="obtener" html_id="obtener" muse_href="anchor:U1586:U21619" includeInBPs="U10855,U12765,U13468,U13837,U14237,U16051"/>
+        <anchor name="limpiar" html_id="limpiar" muse_href="anchor:U1586:U21627" includeInBPs="U10855,U12765,U13468,U13837,U14237,U16051"/>
+        <anchor name="analizar" html_id="analizar" muse_href="anchor:U1586:U21635" includeInBPs="U10855,U12765,U13468,U13837,U14237,U16051"/>
+        <anchor name="accionar" html_id="accionar" muse_href="anchor:U1586:U21643" includeInBPs="U10855,U12765,U13468,U13837,U14237,U16051"/>
+        <anchor name="identificar" html_id="identificar" muse_href="anchor:U1586:U21651" includeInBPs="U10855,U12765,U13468,U13837,U14237,U16051"/>
+      </page>
+      <page name="casos" filename="casos.html" muse_href="page:U1609" master="U72">
+        <breakpoint uid="U18876" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U19941" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U19979" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U20017" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U20055" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U20093" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="recursos" filename="recursos.html" muse_href="page:U1621" master="U72">
+        <breakpoint uid="U17579" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U18012" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U18081" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U18154" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U18231" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U18344" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Datos para responder a la emergencia y reconstrucción ante sismos" filename="datos-para-responder-a-la-emergencia-y-reconstrucción-ante-sismos.html" muse_href="page:U2305" master="U72">
+        <breakpoint uid="U3634" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U3874" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U3907" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U3940" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U3997" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U4062" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Datos para una vida libre de violencia" filename="datos-para-una-vida-libre-de-violencia.html" muse_href="page:U6608" master="U72">
+        <breakpoint uid="U6426" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U6461" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U6534" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U6366" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U6497" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U6569" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Datos para mejorar las condiciones de vida de poblaciones callejeras" filename="datos-para-mejorar-las-condiciones-de-vida-de-poblaciones-callejeras.html" muse_href="page:U7446" master="U72">
+        <breakpoint uid="U7347" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U7206" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U7277" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U7312" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U7382" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U7242" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Datos para fortalecer capacidades de mujeres en una comunidad" filename="datos-para-fortalecer-capacidades-de-mujeres-en-una-comunidad.html" muse_href="page:U8081" master="U72">
+        <breakpoint uid="U7962" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U20773" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U20830" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U20887" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U20944" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U21001" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Datos para investigar y sensibilizar sobre los riesgos que viven asentamientos informales" filename="datos-para-investigar-y-sensibilizar-sobre-los-riesgos-que-viven-asentamientos-informales.html" muse_href="page:U21557" master="U72">
+        <breakpoint uid="U21278" maxwidth="320" minwidth="0" squishy="true"/>
+        <breakpoint uid="U21338" maxwidth="360" minwidth="321" squishy="true"/>
+        <breakpoint uid="U21395" maxwidth="414" minwidth="361" squishy="true"/>
+        <breakpoint uid="U21218" maxwidth="768" minwidth="415" squishy="true"/>
+        <breakpoint uid="U21453" maxwidth="1024" minwidth="769" squishy="true"/>
+        <breakpoint uid="U21159" maxwidth="1280" minwidth="1025" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
